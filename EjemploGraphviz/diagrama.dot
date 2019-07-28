@@ -1,0 +1,10 @@
+digraph G 
+{
+ node [shape=circle];
+ node [style=filled];
+ node [fillcolor="#EEEEEE"];
+ node [color="#EEEEEE"];
+ edge [color="#31CEF0"];
+2->4->5->null;
+rankdir=LR;
+}
